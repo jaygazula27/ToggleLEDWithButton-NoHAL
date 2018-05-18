@@ -1,5 +1,4 @@
 # ToggleLEDWithButton-NoHAL
-##### (In progress)
 ---------------------
 This is a simple project with the STM32F407G (DISC1) microcontroller, which I had done for the purposes of learning embedded development.   
   
